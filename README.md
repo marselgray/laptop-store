@@ -2,21 +2,22 @@
 
 This is a NodeJS project
 
-## Planning:
+### Planning:
 
 
-## Execution:
+### Execution:
 
-## JavaScript Concepts used:
+### JavaScript Concepts used:
 
 
 
-## Modern Webpacks Used: 
+### Modern Webpacks Used: 
 
-## Final Product:
-
+### Final Product:
+<!-- ![](project.jpg) -->
 
 
 ### Future Developers:
- 
+ make sure node and nodemon are installed
+ run `nodemon` to start the server on your terminal 
 
