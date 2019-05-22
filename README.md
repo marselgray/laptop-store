@@ -4,14 +4,12 @@ This is a NodeJS project
 
 ### Planning:
 
-
 ### Execution:
 
 ### JavaScript Concepts used:
+1. routing
+2. backend JS
 
-
-
-### Modern Webpacks Used: 
 
 ### Final Product:
 <!-- ![](project.jpg) -->
